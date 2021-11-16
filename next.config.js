@@ -7,7 +7,7 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 
 sourcebit.fetch(sourcebitConfig);
 
-test;
+test.hello;
 
 module.exports = withBundleAnalyzer({
     trailingSlash: true,
