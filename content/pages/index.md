@@ -33,7 +33,7 @@ sections:
         flexDirection: row
         borderRadius: none
         borderWidth: 0
-        borderStyle: none
+        borderStyle: solid
         borderColor: border-neutral
       title:
         fontWeight: '700'
