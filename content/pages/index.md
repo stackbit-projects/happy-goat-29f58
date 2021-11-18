@@ -16,8 +16,8 @@ sections:
     actions: []
     styles:
       self:
-        height: screen
-        width: wide
+        height: auto
+        width: narrow
         margin:
           - mt-0
           - mb-0
