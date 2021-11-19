@@ -32,15 +32,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Learn more
-        altText: Learn more
-        url: /
-        showIcon: false
-        icon: arrowLeft
-        iconPosition: right
-        style: link
-        elementId: ''
-        type: Link
     styles:
       self:
         height: auto
